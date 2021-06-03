@@ -1,0 +1,20 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "jmpfbmx/android_device_bq_msm8953-common",
+        "target_path":  "device/bq/msm8953-common",
+        "revision":     "r11.0"
+    }
+    {
+        "remote":       "github",
+        "repository":   "jmpfbmx/android_kernel_bq_msm8953",
+        "target_path":  "kernel/bq/msm8953",
+        "revision":     "r11.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "jmpfbmx/android_vendor_bq_msm8953",
+        "target_path":  "vendor/bq/msm8953",
+        "revision":     "r11.0"
+    }
+]
